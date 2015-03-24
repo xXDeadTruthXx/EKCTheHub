@@ -1,2 +1,3 @@
 # EKCTheHub
-A Website for the EKC Hub
+
+Well this is really awkward to do
